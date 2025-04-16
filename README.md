@@ -3,4 +3,4 @@
 
 # ДЗ Все проекты на .Net Fraemwork 4.8
 
-## - с кодрана - 
+## - с кодрана - <https://github.com/egripo21/-/tree/main/с%20сайта>
