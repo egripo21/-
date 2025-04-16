@@ -5,3 +5,4 @@
 
 ## с кодрана - <https://github.com/egripo21/-/tree/main/с%20сайта>
 ## массивы - <https://github.com/egripo21/-/blob/main/Program%20(1).cs> 
+## функции - <https://github.com/egripo21/-/tree/main/функции>
