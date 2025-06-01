@@ -7,7 +7,7 @@
 ## Блок схемв - <>
 ## Новела - <https://github.com/egripo21/-/tree/main/новела>
 ## Циклы - <https://github.com/egripo21/-/tree/main/циклы>
-## Крестики - нолики - <>
+## Крестики - нолики - <https://github.com/egripo21/-/blob/main/xo.cs>
 ## Угадака числа - <>
 ## калькулятор - <https://github.com/egripo21/-/blob/main/calculator.cs>
 ## с кодрана - <https://github.com/egripo21/-/tree/main/с%20сайта>
