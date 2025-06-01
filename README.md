@@ -8,7 +8,7 @@
 ## Новела - <https://github.com/egripo21/-/tree/main/новела>
 ## Циклы - <https://github.com/egripo21/-/tree/main/циклы>
 ## Крестики - нолики - <https://github.com/egripo21/-/blob/main/xo.cs>
-## Угадака числа - <>
+## файловый менеджер - <https://github.com/egripo21/-/blob/main/file%20explorel.cs>
 ## калькулятор - <https://github.com/egripo21/-/blob/main/calculator.cs>
 ## с кодрана - <https://github.com/egripo21/-/tree/main/с%20сайта>
 ## массивы - <https://github.com/egripo21/-/blob/main/Program%20(1).cs> 
