@@ -6,7 +6,7 @@
 
 ## Блок схемв - <>
 ## Новела - <https://github.com/egripo21/-/tree/main/новела>
-## Циклы - <>
+## Циклы - <https://github.com/egripo21/-/tree/main/циклы>
 ## Крестики - нолики - <>
 ## Угадака числа - <>
 ## калькулятор - <https://github.com/egripo21/-/blob/main/calculator.cs>
